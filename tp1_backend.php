@@ -22,7 +22,7 @@ $num2 = 9;
 echo "suma = ", $num+$num2,"<br>";
 echo "resta = ", $num-$num2,"<br>";
 echo "multiplicación = ", $num*$num2,"<br>";
-echo "división = ", $num+$num2,"<br>";
+echo "división = ", $num/$num2,"<br>";
 echo "resto de la división = ", $num%$num2,"<br>";
   ?>
 <h3>Ejercicio 4</h3>
