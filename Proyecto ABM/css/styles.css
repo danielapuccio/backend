@@ -1,0 +1,29 @@
+
+section {
+  padding: 40px;
+}
+button {
+  margin: 1em;
+	padding: 1em 1em;
+  border-radius: 30px;
+  border: none;
+  background-color: #20c997;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+a {
+  text-decoration: none;
+  color: #212529;
+}
+a:hover, a:focus {
+
+}
+.card{
+	border: none;
+}
+.card-body {
+  color: #290533;
+}
+.card-img, .card-img-top {
+  border-radius: 0;
+}
